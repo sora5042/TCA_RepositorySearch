@@ -1,6 +1,6 @@
 //
-//  TCA_RepositorySearchApp.swift
-//  TCA_RepositorySearch
+//  RepositorySearchApp.swift
+//  RepositorySearchApp
 //
 //  Created by Sora Oya on 2025/04/28.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct TCA_RepositorySearchApp: App {
+struct RepositorySearchApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
